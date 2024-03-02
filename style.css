@@ -1,0 +1,27 @@
+.counter {
+  width: 300px;
+  margin: 60px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.counter-el{
+  margin-left: 65px;
+  font-weight: bold;
+  padding: 20;
+}
+#counter-el{
+font-weight: bold;
+font-size: 2rem;
+margin-left: 45%;
+}
+
+button{
+  padding: 10px 20px;
+  border-radius: 2px;
+  border: none;
+  margin-right: 2px;
+  
+
+}
